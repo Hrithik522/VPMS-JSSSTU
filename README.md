@@ -21,8 +21,10 @@ Software Required - XAMPP for SQL server and database connection.
 
 8. Landing Page of the project is first.php file. 
 
-Admin Credentials
-Username: admin123--
+Admin Credentials :
+
+Username: admin123
+
 Password: Admin@1234
 
 or Register a new user.
