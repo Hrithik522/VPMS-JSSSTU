@@ -15,7 +15,7 @@ Software Required - XAMPP for SQL server and database connection.
 
 5. Create a database with the name VehicleParking
 
-6. Import Vehicle VehicleParking.sql file(given inside the zip package in SQL file folder)
+6. Download and Import Vehicle VehicleParking.sql file
 
 7. Run the script http://localhost/vpark
 
